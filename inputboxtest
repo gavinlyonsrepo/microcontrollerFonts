@@ -1,0 +1,34 @@
+#!/bin/bash
+# show an inputbox
+
+# yesnobox.sh - An inputbox demon shell script
+OUTPUT="/tmp/input.txt"
+
+# create empty file
+>$OUTPUT
+
+
+dialog --no-ok \
+--ok-label "RFC" --extra-button  --extra-label "n/a" \
+--title "Inputbox - To take input from you" \
+--backtitle "Linux Shell Script Tutorial Example" \
+--inputbox "Enter your name " 8 60 2>$OUTPUT
+
+# get respose
+respose=$?
+
+# get data stored in $OUPUT using input redirection
+name=$(<$OUTPUT)
+case $respose in
+  0) 
+  	echo ${name} 
+  	;;
+  1) 
+  	echo "Cancel pressed." 
+  	;;
+  	3) 
+  	echo "extra pressed." 
+  	;;
+  255) 
+   echo "[ESC] key pressed."
+esac
