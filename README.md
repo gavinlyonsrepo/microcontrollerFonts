@@ -1,1 +1,1 @@
-# bash_scripts_misc
+# Miscellaneous scripts repository 
