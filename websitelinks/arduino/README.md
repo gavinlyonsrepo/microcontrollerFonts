@@ -1,10 +1,4 @@
-Overview
---------------------------------------------
-* Description: Arduino based Micro-controller Project list 
-* Author: Gavin Lyons
-
-
-Project List
+Arduino based Micro-controller Project list 
 ----------------------
 1. [Countdown Timer attiny85](https://github.com/gavinlyonsrepo/timer_arduino)
 2. [LED Display unit](https://github.com/gavinlyonsrepo/LED_Display_arduino)
