@@ -1,2 +1,5 @@
- A repository for small miscellaneous scripts and programs
  
+A repository for miscellaneous documentation, small scripts, programs and stuff.
+-------------------------------
+
+
