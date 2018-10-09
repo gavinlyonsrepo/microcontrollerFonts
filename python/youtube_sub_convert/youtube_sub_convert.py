@@ -17,43 +17,49 @@ from xml.etree import ElementTree
 
 
 # =====================MAIN===============================
-def test(test):
+def opml_txt(text):
     """ function to turn opml file into textfile"""
-    print(test)
+    print(text)
 
     urls = []
     texts = []
     filename = "infile.xml"
 
-    with open(filename, 'rt') as f:
-        tree = ElementTree.parse(f)
-    for node in tree.findall('.//outline'):
-        url = node.attrib.get('xmlUrl')
-        if url:
-            urls.append(url)
+#  Parse the input file.
+    try:
+        with open(filename, 'rt') as f:
+            tree = ElementTree.parse(f)
+        for node in tree.findall('.//outline'):
+            url = node.attrib.get('xmlUrl')
+            if url:
+                urls.append(url)
 
-    for node in tree.findall('.//outline'):
-        text = node.attrib.get('text')
-        if text:
-            texts.append(text)
+        for node in tree.findall('.//outline'):
+            text = node.attrib.get('text')
+            if text:
+                texts.append(text)
+        
+        texts.pop(0)
+        
+    except Exception as error:
+            print("Problem with input file infile.xml".format(error))
+    else:
+            print("Input file infile.xml parsed")
 
-    texts.pop(0)
-
-   # for i, j in zip(urls, texts):
-    #    print('{0}  "{1}"  youtube'.format(i, j))
-
+# Create the output file.
     try:
         with open("outfile.txt", "w") as myoutfile:
             for i, j in zip(urls, texts):
                 myoutfile.write('{0}  "~{1}"  youtube'.format(i, j) + '\n')
     except Exception as error:
-            print("Problem with output file".format(error))
+            print("Problem making output file".format(error))
     else:
-            print("Output file created outfile.txt")
+            print("Output file outfile.txt created")
 
+    print("End")
 
 if __name__ == '__main__':
-    test("main")
+    opml_txt("Start in main")
 else:
-    test("Imported {}".format(__name__))
+    opml_txt("Imported {}".format(__name__))
 # =====================END===============================
