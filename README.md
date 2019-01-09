@@ -1,7 +1,7 @@
  
  
  
-A repository for miscellaneous documentation, small scripts, programs and stuff.
+A repository for my miscellaneous stuff.
 
 
 
