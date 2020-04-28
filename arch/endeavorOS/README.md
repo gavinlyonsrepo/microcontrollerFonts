@@ -91,12 +91,11 @@ As per arch wiki) or simply rename.
 Stage 7, Edit release files.
 -----------------------
  
-* change "endeavouros" to "arch"  in two files.
+* change "endeavouros" to "arch"  in files 2.
 
-1. /etc/lsb-release
-2. /usr/lib/os-release
+1. /etc/lsb-release    , delete
+2. /usr/lib/os-release    ,  edit 
 
-Note replace uppercase with uppercase and lowercase with lower case.
 
 Stage 8, LightDm 
 ------------------------------
