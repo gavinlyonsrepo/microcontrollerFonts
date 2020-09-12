@@ -1,10 +1,7 @@
 /*
-* Project Name: FourteenSegDisplay
 * File: NineSegDisplayFont.h
 * Description: font file for NineSegDisplay  library: ASCII to 9 segment
 * Author: Gavin Lyons.
-* Created: June 2019
-* URL: https://github.com/gavinlyonsrepo/FourteenSegDisplay
 */
 
 const PROGMEM uint16_t NineSeg[91] = {

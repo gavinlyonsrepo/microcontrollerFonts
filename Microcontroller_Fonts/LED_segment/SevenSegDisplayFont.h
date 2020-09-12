@@ -1,10 +1,7 @@
 /*
-* Project Name: FourteenSegDisplay
 * File: SevenSegDisplayFont.h
 * Description: font file for SevenSegDisplay: ASCII to 7 segment
 * Author: Gavin Lyons.
-* Created: Nov 2019
-* URL: https://github.com/gavinlyonsrepo/FourteenSegDisplay
 */
  
 const  PROGMEM uint8_t SevenSeg[91] = {

@@ -17,7 +17,7 @@ Display segments layout. 7,9,14,16.
 Seven Segment
 --------------------
 
-![ layout ](https://github.com/gavinlyonsrepo/FourteenSegDisplay/blob/master/extra/image/7seg.png)
+![ 7seg ](https://github.com/gavinlyonsrepo/FourteenSegDisplay/blob/master/extra/image/7seg2.jpg)
 
 Nine Segment
 --------------------------------------------

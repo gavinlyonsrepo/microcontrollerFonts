@@ -1,10 +1,7 @@
 /*
-* Project Name: FourteenSegDisplay
 * File: SixteenSegDisplayFont.h
 * Description: font file for SixteenSegDisplay: ASCII to 16 segment
 * Author: Gavin Lyons.
-* Created: Nov 2019
-* URL: https://github.com/gavinlyonsrepo/FourteenSegDisplay
 */
  
 const PROGMEM uint16_t SixteenSeg[96] = {
