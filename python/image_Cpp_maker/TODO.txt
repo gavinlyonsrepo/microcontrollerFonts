@@ -1,0 +1,4 @@
+1. output in hed or binary
+2. output to file 
+3. invert option 
+4. horizontal or vertical (currently hor)
