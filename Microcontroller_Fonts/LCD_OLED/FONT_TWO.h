@@ -1,4 +1,4 @@
-// ASCII font file : Thick Font 7 by 8 
+// ASCII font file : "Thick" Font 7 by 8 
 
 // Define the ASCII table as Data array
 // cols left to right 0x00 is  off 0xFF is all on

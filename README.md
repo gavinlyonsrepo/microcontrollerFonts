@@ -1,6 +1,6 @@
  
  
-A repository to store miscellaneous documentation, small scripts, programs and stuff.
+A repository to store various micro-controller fonts.
 
 
 

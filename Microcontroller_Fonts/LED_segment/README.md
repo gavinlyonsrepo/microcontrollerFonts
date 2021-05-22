@@ -2,7 +2,7 @@
 
 **Files table**
 
-| Segment |  Font file  |
+| No of LED Segments  |  Font file  |
 | --- | --- |  
 | 7 | SevenSegDisplayFont.h | 
 | 9 | NineSegDisplayFont.h | 
