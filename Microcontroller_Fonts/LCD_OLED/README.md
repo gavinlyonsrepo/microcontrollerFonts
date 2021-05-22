@@ -9,7 +9,7 @@
 | 3 | Aurebesh | 5x8 | byte | 0x20 - 0x5A |
 | 4 | Seven segment | 4x8|  byte | 0x20 - 0x7A |
 | 5 | Wide | 8x8 | byte | 0x20 - 0x5A |
-| 6 | Tiny | 3x8 | byte | | 0x20 - 0x7E |
+| 6 | Tiny | 3x8 | byte | 0x20 - 0x7E |
 | 7 | Large | 12x16 | uint16_t |  0x20 - 0x5A |
 | 8 | Huge | 16x24 | uint32_t  | 0x2E - 0x3B |
 | 9 | Mega | 16x32 | uint32_t | 0x2E - 0x3B |
@@ -27,4 +27,4 @@
 2. #10-12 are from this [project](https://github.com/gavinlyonsrepo/pic_18F47K42_projects/tree/master/projects/OLED_GRAPH)
 3. #13 is from this  [project](https://github.com/gavinlyonsrepo/ERM19264_UC1609)
 4. #14 is from this [project](https://github.com/gavinlyonsrepo/ER_OLEDM1_CH1115_RPI)
-5. #18 is form this [project](https://github.com/gavinlyonsrepo/pic_18F47K42_projects/tree/master/projects/nokiagraphics)
+5. #18 is from this [project](https://github.com/gavinlyonsrepo/pic_18F47K42_projects/tree/master/projects/nokiagraphics)
