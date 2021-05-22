@@ -4,7 +4,7 @@
 * Author: Gavin Lyons.
 */
  
-const  PROGMEM uint8_t SevenSeg[91] = {
+const  PROGMEM uint8_t SevenSeg[95] = {
 	0x00, // space
 	0x86, // ! 
 	0x22, // " 
@@ -96,4 +96,8 @@ const  PROGMEM uint8_t SevenSeg[91] = {
 	0x76, // x 
 	0x6E, // y 
 	0x5B, // z 
+    0x46, /* { */
+    0x30, /* | */
+    0x70, /* } */
+    0x01, /* ~ */ 
 };

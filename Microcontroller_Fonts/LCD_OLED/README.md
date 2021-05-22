@@ -21,9 +21,10 @@
 | 15 | SmallNums | 12x16 | byte  | 0x30-0x3A |
 | 16 | AlphaNumMed | 8x16 | byte  | 0x20 - 0x7E |
 | 17 | AlphaNumSmall | 6x12 | byte  | 0x20 - 0x7E  |
+| 18 | All ASCII 2 | 5x8 | byte | 0x00 - 0xFF all |
 
 1. #1-9 are from thjs [project](https://github.com/gavinlyonsrepo/NOKIA5110_TEXT)
 2. #10-12 are from this [project](https://github.com/gavinlyonsrepo/pic_18F47K42_projects/tree/master/projects/OLED_GRAPH)
 3. #13 is from this  [project](https://github.com/gavinlyonsrepo/ERM19264_UC1609)
 4. #14 is from this [project](https://github.com/gavinlyonsrepo/ER_OLEDM1_CH1115_RPI)
-
+5. #18 is form this [project](https://github.com/gavinlyonsrepo/pic_18F47K42_projects/tree/master/projects/nokiagraphics)

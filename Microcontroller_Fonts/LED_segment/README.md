@@ -11,6 +11,8 @@
 
 Display segments layout. 7,9,14,16.
 
+These fonts are from this [project](https://github.com/gavinlyonsrepo/FourteenSegDisplay)
+
 ![ layout 2  ](https://github.com/gavinlyonsrepo/FourteenSegDisplay/blob/master/extra/image/allseg.jpg)
 
 
