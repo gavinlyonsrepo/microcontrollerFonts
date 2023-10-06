@@ -31,7 +31,7 @@
 | 25 | blocks | 6x8 | byte | 0x20 - 0x7D | otf , variable-width |
 | 26 | Common | 8x8 | byte | 0x20 - 0x7D | otf , variable-width |
 
-1. #1-6 are from thjs [project](https://github.com/gavinlyonsrepo/NOKIA5110_TEXT)
+1. #2-6 are from this [LCD project](https://github.com/gavinlyonsrepo/ST7735_TFT_PICO)
 2. #7
-[project](https://github.com/gavinlyonsrepo/ERM19264_UC1609)
-3. #8 [project](https://github.com/gavinlyonsrepo/pic_18F47K42_projects/tree/master/projects/nokiagraphics)
+[LCD project](https://github.com/gavinlyonsrepo/ERM19264_UC1609)
+3. #8 [LCD project](https://github.com/gavinlyonsrepo/pic_18F47K42_projects/tree/master/projects/nokiagraphics)
