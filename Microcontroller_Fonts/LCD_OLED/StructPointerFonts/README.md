@@ -22,26 +22,26 @@
 
 4:
 
-[Sinclair ](https://github.com/gavinlyonsrepo/SSD1306_OLED_PICO/blob/main/extra/image/Sinclair_S.png)
+![Sinclair ](https://github.com/gavinlyonsrepo/SSD1306_OLED_PICO/blob/main/extra/image/Sinclair_S.png)
 
 5:
 
-[Arial Bold](https://github.com/gavinlyonsrepo/SSD1306_OLED_PICO/blob/main/extra/image/arial_bold.png)
+![Arial Bold](https://github.com/gavinlyonsrepo/SSD1306_OLED_PICO/blob/main/extra/image/arial_bold.png)
 
 6:
 
-[6 hallifetica ](https://github.com/gavinlyonsrepo/SSD1306_OLED_PICO/blob/main/extra/image/hallfetica_normal.png)
+![6 hallifetica ](https://github.com/gavinlyonsrepo/SSD1306_OLED_PICO/blob/main/extra/image/hallfetica_normal.png)
 
 
 7:
 
-[7 ArialRound](https://github.com/gavinlyonsrepo/SSD1306_OLED_PICO/blob/main/extra/image/Arial_round_16x24.png)
+![7 ArialRound](https://github.com/gavinlyonsrepo/SSD1306_OLED_PICO/blob/main/extra/image/Arial_round_16x24.png)
 
 
 8:
 
-[8 Grotesk](https://github.com/gavinlyonsrepo/SSD1306_OLED_PICO/blob/main/extra/image/Grotesk16x32.png)
+![8 Grotesk](https://github.com/gavinlyonsrepo/SSD1306_OLED_PICO/blob/main/extra/image/Grotesk16x32.png)
 
 9:
 
-[9 16 seg](https://github.com/gavinlyonsrepo/SSD1306_OLED_PICO/blob/main/extra/image/SixteenSegment32x48.png)
+![9 16 seg](https://github.com/gavinlyonsrepo/SSD1306_OLED_PICO/blob/main/extra/image/SixteenSegment32x48.png)
